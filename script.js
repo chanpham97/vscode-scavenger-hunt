@@ -1,6 +1,6 @@
 // Adding a comment
 console.log("I should go at the end")
-
+console.log("Adding change")
 // Compliments about "Your Name"
 let compliments = [
     "Your Name is an absolute coding wizard!",
