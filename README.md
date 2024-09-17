@@ -2,9 +2,9 @@
 Learn how to navigate VSCode through this scavenger hunt.
 
 In VSCode,
-- [ ] Open the code palette. This will let you search up any instructions!
-- [ ] Find the index.js file. You can use the UI or a keyboard shortcut.
-- [ ] Create a new file called test.js. You can use the UI or a keyboard shortcut.
+- [x] Open the code palette. This will let you search up any instructions!
+- [x] Find the index.js file. You can use the UI or a keyboard shortcut.
+- [x] Create a new file called test.js. You can use the UI or a keyboard shortcut.
 
 Use keyboard shortcuts to:
 - [ ] Select all the code in index.js
